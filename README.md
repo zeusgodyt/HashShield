@@ -45,7 +45,7 @@ A web app that verifies file integrity using **SHA-256 hashes**. This tool provi
 1. 🚀 Clone the repository:
 
     ```bash
-    git clone https://github.com/zeusgodyt/file-integrity-checker-sha256
+    git clone https://github.com/zeusgodyt/HashShield.git
     ```
 
 2. 📁 Navigate to the project directory:
